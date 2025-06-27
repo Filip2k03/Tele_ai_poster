@@ -2,6 +2,7 @@
 import os
 # from openai import OpenAI, OpenAIError # Comment out or remove this line
 import google.generativeai as genai # Import the Google Gemini library
+
 from dotenv import load_dotenv
 from config import DEFAULT_AI_MODEL # Assuming you add this to config.py
 

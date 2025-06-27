@@ -2,3 +2,4 @@ python-telegram-bot~=21.0
 PyQt5~=5.15
 openai~=1.0
 python-dotenv~=1.0
+google-generativeai
